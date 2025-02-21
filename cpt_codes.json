@@ -1,0 +1,85 @@
+{
+    "Evaluation and Management (E/M)": [
+        { "code": "99202", "description": "New patient office visit (15-29 minutes)" },
+        { "code": "99203", "description": "New patient office visit (30-44 minutes)" },
+        { "code": "99204", "description": "New patient office visit (45-59 minutes)" },
+        { "code": "99205", "description": "New patient office visit (60+ minutes)" },
+        { "code": "99211", "description": "Established patient office visit (Minimal problem)" },
+        { "code": "99212", "description": "Established patient office visit (10-19 minutes)" },
+        { "code": "99213", "description": "Established patient office visit (20-29 minutes)" },
+        { "code": "99214", "description": "Established patient office visit (30-39 minutes)" },
+        { "code": "99215", "description": "Established patient office visit (40+ minutes)" },
+        { "code": "99221", "description": "Initial hospital care (low complexity)" },
+        { "code": "99222", "description": "Initial hospital care (moderate complexity)" },
+        { "code": "99223", "description": "Initial hospital care (high complexity)" },
+        { "code": "99231", "description": "Subsequent hospital care (low complexity)" },
+        { "code": "99232", "description": "Subsequent hospital care (moderate complexity)" },
+        { "code": "99233", "description": "Subsequent hospital care (high complexity)" },
+        { "code": "99238", "description": "Hospital discharge (30 minutes or less)" },
+        { "code": "99239", "description": "Hospital discharge (more than 30 minutes)" },
+        { "code": "99441", "description": "Telephone E/M service (5-10 minutes)" },
+        { "code": "99442", "description": "Telephone E/M service (11-20 minutes)" },
+        { "code": "99443", "description": "Telephone E/M service (21-30 minutes)" }
+    ],
+    "Anesthesia": [
+        { "code": "00100", "description": "Anesthesia for procedures on salivary glands" },
+        { "code": "00300", "description": "Anesthesia for procedures on the neck" },
+        { "code": "00400", "description": "Anesthesia for thoracic procedures" },
+        { "code": "00600", "description": "Anesthesia for procedures on spine and spinal cord" },
+        { "code": "00700", "description": "Anesthesia for procedures on upper abdomen" },
+        { "code": "00800", "description": "Anesthesia for procedures on lower abdomen" }
+    ],
+    "Surgery": [
+        { "code": "10040", "description": "Acne surgery (e.g., drainage of cysts)" },
+        { "code": "10120", "description": "Incision and removal of foreign body" },
+        { "code": "11000", "description": "Debridement of extensive eczematous skin" },
+        { "code": "12001", "description": "Simple repair of superficial wounds (2.5 cm or less)" },
+        { "code": "13160", "description": "Secondary closure of surgical wound" },
+        { "code": "20550", "description": "Injection for tendon sheath or ligament" },
+        { "code": "20610", "description": "Arthrocentesis (joint aspiration)" },
+        { "code": "22510", "description": "Percutaneous vertebroplasty (thoracic spine)" },
+        { "code": "23600", "description": "Open treatment of shoulder dislocation" },
+        { "code": "36800", "description": "Creation of arteriovenous fistula for dialysis" },
+        { "code": "43235", "description": "Upper gastrointestinal endoscopy (EGD)" },
+        { "code": "44140", "description": "Partial colectomy with anastomosis" },
+        { "code": "47562", "description": "Laparoscopic cholecystectomy (gallbladder removal)" },
+        { "code": "50590", "description": "Extracorporeal shock wave lithotripsy (kidney stones)" },
+        { "code": "62270", "description": "Spinal tap (lumbar puncture)" },
+        { "code": "63001", "description": "Laminectomy (removal of spinal bone to relieve pressure)" }
+    ],
+    "Radiology": [
+        { "code": "70010", "description": "X-ray of skull (minimum two views)" },
+        { "code": "70030", "description": "X-ray for foreign body localization" },
+        { "code": "71045", "description": "Chest X-ray (single view)" },
+        { "code": "71048", "description": "Chest X-ray (four or more views)" },
+        { "code": "72125", "description": "CT scan of cervical spine" },
+        { "code": "74176", "description": "CT scan of abdomen and pelvis (without contrast)" },
+        { "code": "74178", "description": "CT scan of abdomen and pelvis (with and without contrast)" }
+    ],
+    "Pathology and Laboratory": [
+        { "code": "80047", "description": "Basic metabolic panel (calcium included)" },
+        { "code": "80076", "description": "Hepatic function panel" },
+        { "code": "81000", "description": "Urinalysis (non-automated, with microscopy)" },
+        { "code": "85002", "description": "Blood count (automated white blood cell count)" },
+        { "code": "86000", "description": "Allergy testing (IgE levels)" },
+        { "code": "87040", "description": "Culture for streptococcus infection" }
+    ],
+    "Medicine": [
+        { "code": "90471", "description": "Immunization administration (single vaccine)" },
+        { "code": "90630", "description": "Influenza vaccine, preservative-free" },
+        { "code": "90750", "description": "Zoster (shingles) vaccine" },
+        { "code": "93000", "description": "Electrocardiogram (EKG) with interpretation" },
+        { "code": "94010", "description": "Spirometry (lung function test)" },
+        { "code": "96360", "description": "Intravenous hydration infusion (first hour)" }
+    ],
+    "Category II Codes": [
+        { "code": "2001F", "description": "Blood pressure measured" },
+        { "code": "3074F", "description": "HbA1c level less than 7.0%" },
+        { "code": "4004F", "description": "Tobacco non-use documented" }
+    ],
+    "Category III Codes": [
+        { "code": "0042T", "description": "Virtual colonoscopy" },
+        { "code": "0191T", "description": "Cardiac CT for calcium scoring" },
+        { "code": "0256T", "description": "Robotic-assisted surgery" }
+    ]
+}

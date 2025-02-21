@@ -1,0 +1,174 @@
+{
+    "Infectious and Parasitic Diseases (A00\u2013B99)": {
+        "A00": "Cholera",
+        "A01": "Typhoid and paratyphoid fevers",
+        "A02": "Other salmonella infections",
+        "A03": "Shigellosis",
+        "A04": "Other bacterial intestinal infections",
+        "A05": "Other bacterial foodborne intoxications",
+        "A06": "Amoebiasis",
+        "A07": "Other protozoal intestinal diseases",
+        "A08": "Viral intestinal infections",
+        "A09": "Infectious gastroenteritis and colitis, unspecified"
+    },
+    "Neoplasms (C00\u2013D49)": {
+        "C00": "Malignant neoplasm of lip",
+        "C01": "Malignant neoplasm of base of tongue",
+        "C02": "Malignant neoplasm of other and unspecified parts of tongue",
+        "C03": "Malignant neoplasm of gum",
+        "C04": "Malignant neoplasm of floor of mouth",
+        "C05": "Malignant neoplasm of palate",
+        "C06": "Malignant neoplasm of other and unspecified parts of mouth"
+    },
+    "Diseases of the Blood and Blood-forming Organs and Certain Disorders Involving the Immune Mechanism (D50\u2013D89)": {
+        "D50": "Iron deficiency anemia",
+        "D51": "Vitamin B12 deficiency anemia",
+        "D52": "Folate deficiency anemia",
+        "D53": "Other nutritional anemias",
+        "D55": "Anemia due to enzyme disorders",
+        "D56": "Thalassemia",
+        "D57": "Sickle-cell disorders",
+        "D58": "Other hereditary hemolytic anemias",
+        "D59": "Acquired hemolytic anemia"
+    },
+    "Endocrine, Nutritional and Metabolic Diseases (E00\u2013E89)": {
+        "E00": "Congenital iodine-deficiency syndrome",
+        "E01": "Iodine-deficiency-related thyroid disorders",
+        "E02": "Subclinical iodine-deficiency hypothyroidism",
+        "E03": "Other hypothyroidism",
+        "E04": "Other nontoxic goiter",
+        "E05": "Thyrotoxicosis [hyperthyroidism]",
+        "E06": "Thyroiditis",
+        "E07": "Other disorders of thyroid"
+    },
+    "Mental, Behavioral and Neurodevelopmental Disorders (F01\u2013F99)": {
+        "F01": "Vascular dementia",
+        "F02": "Dementia in other diseases classified elsewhere",
+        "F03": "Unspecified dementia",
+        "F04": "Amnestic disorder due to known physiological condition",
+        "F05": "Delirium due to known physiological condition",
+        "F06": "Other mental disorders due to known physiological condition",
+        "F07": "Personality and behavioral disorders due to known physiological condition"
+    },
+    "Diseases of the Nervous System (G00\u2013G99)": {
+        "G00": "Bacterial meningitis, not elsewhere classified",
+        "G01": "Meningitis in bacterial diseases classified elsewhere",
+        "G02": "Meningitis in other infectious and parasitic diseases classified elsewhere",
+        "G03": "Meningitis due to other and unspecified causes",
+        "G04": "Encephalitis, myelitis and encephalomyelitis",
+        "G05": "Encephalitis, myelitis and encephalomyelitis in diseases classified elsewhere"
+    },
+    "Diseases of the Eye and Adnexa (H00\u2013H59)": {
+        "H00": "Hordeolum and chalazion",
+        "H01": "Other inflammation of eyelid",
+        "H02": "Other disorders of eyelid",
+        "H03": "Disorders of eyelid in diseases classified elsewhere",
+        "H04": "Disorders of lacrimal system",
+        "H05": "Disorders of orbit"
+    },
+    "Diseases of the Ear and Mastoid Process (H60\u2013H95)": {
+        "H60": "Otitis externa",
+        "H61": "Other disorders of external ear",
+        "H62": "Disorders of external ear in diseases classified elsewhere",
+        "H63": "Disorders of external ear, unspecified",
+        "H64": "Eustachian tube disorders"
+    },
+    "Diseases of the Circulatory System (I00\u2013I99)": {
+        "I00": "Rheumatic fever without heart involvement",
+        "I01": "Rheumatic fever with heart involvement",
+        "I02": "Rheumatic chorea",
+        "I05": "Rheumatic mitral valve diseases",
+        "I06": "Rheumatic aortic valve diseases",
+        "I07": "Rheumatic tricuspid valve diseases",
+        "I08": "Multiple valve diseases"
+    },
+    "Diseases of the Respiratory System (J00\u2013J99)": {
+        "J00": "Acute nasopharyngitis [common cold]",
+        "J01": "Acute sinusitis",
+        "J02": "Acute pharyngitis",
+        "J03": "Acute tonsillitis",
+        "J04": "Acute laryngitis and tracheitis",
+        "J05": "Acute obstructive laryngitis [croup] and epiglottitis"
+    },
+    "Diseases of the Digestive System (K00\u2013K95)": {
+        "K00": "Disorders of tooth development and eruption",
+        "K01": "Embedded and impacted teeth",
+        "K02": "Dental caries",
+        "K03": "Other diseases of hard tissues of teeth",
+        "K04": "Diseases of pulp and periapical tissues",
+        "K05": "Gingivitis and periodontal diseases",
+        "k29.4": "Chronic gastritis"
+    },
+    "Diseases of the Skin and Subcutaneous Tissue (L00\u2013L99)": {
+        "L00": "Staphylococcal scalded skin syndrome",
+        "L01": "Impetigo",
+        "L02": "Cutaneous abscess, furuncle and carbuncle",
+        "L03": "Cellulitis",
+        "L04": "Acute lymphadenitis",
+        "L05": "Pilonidal cyst"
+    },
+    "Diseases of the Musculoskeletal System and Connective Tissue (M00\u2013M99)": {
+        "M00": "Pyogenic arthritis",
+        "M01": "Direct infections of joint in infectious and parasitic diseases classified elsewhere",
+        "M02": "Reactive arthropathies",
+        "M03": "Postinfective and reactive arthropathies in diseases classified elsewhere",
+        "M04": "Autoinflammatory syndromes"
+    },
+    "Diseases of the Genitourinary System (N00\u2013N99)": {
+        "N00": "Acute nephritic syndrome",
+        "N01": "Rapidly progressive nephritic syndrome",
+        "N02": "Recurrent and persistent hematuria",
+        "N03": "Chronic nephritic syndrome",
+        "N04": "Nephrotic syndrome"
+    },
+    "Pregnancy, Childbirth and the Puerperium (O00\u2013O99)": {
+        "O00": "Ectopic pregnancy",
+        "O01": "Hydatidiform mole",
+        "O02": "Other abnormal products of conception",
+        "O03": "Spontaneous abortion",
+        "O04": "Medical abortion"
+    },
+    "Certain Conditions Originating in the Perinatal Period (P00\u2013P96)": {
+        "P00": "Newborn affected by maternal conditions",
+        "P01": "Newborn affected by maternal complications",
+        "P02": "Newborn affected by complications of placenta, cord and membranes",
+        "P03": "Newborn affected by other complications of labor and delivery",
+        "P04": "Newborn affected by noxious substances transmitted via placenta or breast milk"
+    },
+    "Congenital Malformations, Deformations and Chromosomal Abnormalities (Q00\u2013Q99)": {
+        "Q00": "Anencephaly and similar malformations",
+        "Q01": "Encephalocele",
+        "Q02": "Microcephaly",
+        "Q03": "Congenital hydrocephalus",
+        "Q04": "Other congenital malformations of brain"
+    },
+    "Symptoms, Signs and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified (R00\u2013R99)": {
+        "R00": "Abnormalities of heart beat",
+        "R01": "Cardiac murmurs and other cardiac sounds",
+        "R02": "Gangrene, not elsewhere classified",
+        "R03": "Abnormal blood-pressure reading, without diagnosis",
+        "R04": "Hemorrhage from respiratory passages"
+    },
+    "Injury, Poisoning and Certain Other Consequences of External Causes (S00\u2013T98)": {
+        "S00": "Superficial injury of head",
+        "S01": "Open wound of head",
+        "S02": "Fracture of skull and facial bones",
+        "S03": "Dislocation and sprain of joints and ligaments of head",
+        "S04": "Injury of cranial nerves"
+    },
+    "External Causes of Morbidity and Mortality (V00\u2013Y99)": {
+        "V00": "Pedestrian injured in transport accident",
+        "V01": "Pedestrian injured in collision with pedal cycle",
+        "V02": "Pedestrian injured in collision with two- or three-wheeled motor vehicle",
+        "V03": "Pedestrian injured in collision with car, pick-up truck or van",
+        "V04": "Pedestrian injured in collision with heavy transport vehicle or bus"
+    },
+    "Factors Influencing Health Status and Contact with Health Services (Z00\u2013Z99)": {
+        "Z00": "General examination and investigation of persons without complaint or reported diagnosis",
+        "Z01": "Other special examinations",
+        "Z02": "Encounter for administrative examination",
+        "Z03": "Medical observation and evaluation for suspected diseases and conditions",
+        "Z04": "Examination and observation for other reasons",
+        "Z34.9": "Normal Pregnancy"
+    }
+}
